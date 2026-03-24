@@ -17,8 +17,7 @@
 <br/>
 
 <!-- Visitor Count -->
-![Visitor Count](https://profile-counter.glitch.me/anshul054/count.svg)
-
+![Visitor Count](https://komarev.com/ghpvc/?username=anshul054&color=blueviolet)
 </div>
 
 ---
