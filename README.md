@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:7c3aed,100:a78bfa&height=220&section=header&text=Anshul%20Gupta&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%7C%20AI%20Explorer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:7c3aed,100:a78bfa&height=220&section=header&text=Anshul&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%7C%20AI%20Explorer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Anshul+%F0%9F%91%8B;Python+%7C+JavaScript+%7C+SQL+Developer;AI+%2F+Gen+AI+Builder+%F0%9F%A4%96;Cybersecurity+Enthusiast+%F0%9F%94%90;Turning+Data+into+Decisions+%F0%9F%93%8A;Automating+Everything+I+Can+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
