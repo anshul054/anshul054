@@ -29,7 +29,7 @@
 
 ```python
 anshul = {
-    "name"       : "Anshul Gupta",
+    "name"       : "Anshul",
     "role"       : "CS Student & Aspiring Developer",
     "location"   : "India 🇮🇳",
     "focus"      : ["AI / Gen AI", "Cybersecurity", "Automation", "Data Analytics"],
