@@ -104,9 +104,7 @@ anshul = {
 | [🔐 Keylogger Detection](https://github.com/anshul054/keylogger-detection) | Detects keylogging/malicious activity on system | Python, Cybersecurity |
 | [🤖 Clara Automation Project](https://github.com/anshul054/clara-automation-project) | Intelligent task automation system | Python |
 | [🎯 Skills Matcher](https://github.com/anshul054/skills-matcher) | Matches user skills to job requirements | JavaScript |
-| [🔑 Password Generator](https://github.com/anshul054/password_generator) | Secure random password generator | JavaScript |
-| [📊 Data Analytics](https://github.com/anshul054/Data_Analytics) | Data analysis & visualization projects | Python, SQL |
-
+| [🔑 Password Generator](https://github.com/anshul054/password_generator) | Secure random password generator | JavaScript 
 </div>
 
 ---
